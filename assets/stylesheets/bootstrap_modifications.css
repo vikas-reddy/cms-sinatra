@@ -1,0 +1,9 @@
+.pagination a:hover,
+.pagination .active a {
+  background-color: #E86539;
+}
+
+.pagination .active a {
+  color: #FFFFFF;
+}
+
